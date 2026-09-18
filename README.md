@@ -1,4 +1,4 @@
-# 📈 Trading on Trends — Advanced Stock Sentiment Analysis System
+#  Trading on Trends — Advanced Stock Sentiment Analysis System
 
 > An intelligent, end-to-end system that combines **social media sentiment**, **financial market data**, and **technical analysis** to predict stock price movements.
 
@@ -6,9 +6,9 @@ Built with Python, Flask, and advanced machine learning models, this project ena
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔌 API Integrations
+###  API Integrations
 
 | Source | Description | Method |
 |--------|-------------|--------|
@@ -36,7 +36,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 🤖 Machine Learning Models
+###  Machine Learning Models
 
 #### Classification — Stock Price Direction (Up / Down)
 
@@ -72,7 +72,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 💬 Enhanced Sentiment Analysis
+### Enhanced Sentiment Analysis
 
 - Custom financial lexicon layered on top of **VADER**
 - Aggregates signals from multiple financial subreddits
@@ -80,7 +80,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 🏋️ Training Pipeline Optimization
+### Training Pipeline Optimization
 
 - **Feature selection** via Random Forest feature importance
 - **Time-series cross-validation** for temporal modeling integrity
@@ -89,7 +89,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 🛡️ Robust Error Handling
+###  Robust Error Handling
 
 - Graceful handling of missing and infinite values
 - API error fallbacks during data collection
@@ -97,7 +97,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 📊 Performance Monitoring
+###  Performance Monitoring
 
 - Model metrics stored in JSON for reproducibility
 - Visual comparison of feature importance across models
@@ -105,7 +105,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 stock_sentiment_analysis/
@@ -122,7 +122,7 @@ stock_sentiment_analysis/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real-time streaming from Reddit and stock tickers
 - [ ] Deep learning models (LSTM, Transformer-based architectures)
@@ -133,7 +133,7 @@ stock_sentiment_analysis/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
