@@ -64,7 +64,7 @@ Technical indicators and enriched features added via `add_technical_indicators()
 
 ---
 
-### 🌐 Interactive Web Application
+###  Interactive Web Application
 
 - Built with **Flask** for API interaction
 - Real-time visualizations powered by **Plotly**
